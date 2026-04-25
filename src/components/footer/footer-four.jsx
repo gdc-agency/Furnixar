@@ -89,7 +89,9 @@ export default function FooterFour() {
                 </div>
             </div> 
         </div>
-        <p className="max-w-1366 mx-auto mt-12 flex ">© {new Date().getFullYear()} Furnixar Develop with <FaHeart className="fa-solid fa-heart mx-1 text-red-500"></FaHeart>  By <a href="https://globaldigitalcare.pk"> Global Digital Care</a></p>
+        <p className="max-w-1366 mx-auto mt-12 flex ">© {new Date().getFullYear()} Furnixar Develop with <FaHeart className="fa-solid fa-heart mx-1 text-red-500"></FaHeart>  By <a href="https://www.globaldigitalcare.pk/" target="_blank" rel="noopener noreferrer">
+      Global Digital Care
+    </a>.</p>
     </div>
 </div>
   )
