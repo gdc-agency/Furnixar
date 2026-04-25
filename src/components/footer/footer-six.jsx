@@ -67,7 +67,9 @@ export default function FooterSix() {
                 </div>
             </div>
             <div className="flex 2xl:hidden py-5 text-center mt-14">
-                <p>© {new Date().getFullYear()} Furnixar Develop  By <a href="https://globaldigitalcare.pk"> Global Digital Care</a></p>
+                <p>© {new Date().getFullYear()} Furnixar Develop  By <a href="https://www.globaldigitalcare.pk/" target="_blank" rel="noopener noreferrer">
+      Global Digital Care
+    </a>.</p>
             </div>
         </div>
     </div>
