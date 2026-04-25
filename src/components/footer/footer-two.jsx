@@ -75,7 +75,9 @@ export default function FooterTwo() {
             </div>
 
             <div className="max-w-[1722px] mx-auto border-t border-bdr-clr dark:border-bdr-clr-drk py-5 md:py-7 mt-7 text-center">
-                <p className="text-dark  inline-flex align-middle">© {new Date().getFullYear()} Furnixar Develop with <FaHeart className="fa-solid fa-heart mx-1 text-red-500"></FaHeart>  By <a href="https://globaldigitalcare.pk"> Global Digital Care</a></p>
+                <p className="text-dark  inline-flex align-middle">© {new Date().getFullYear()} Furnixar Develop with <FaHeart className="fa-solid fa-heart mx-1 text-red-500"></FaHeart>  By <a href="https://www.globaldigitalcare.pk/" target="_blank" rel="noopener noreferrer">
+      Global Digital Care
+    </a>.</p>
             </div>
         </div>
     </div>
